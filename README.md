@@ -12,45 +12,45 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=saikishor164"> -->
 <h1> My Github Contributions in Skyline View</h1>
 <h3>from 1st January to 28th July </h3>
- <a href="https://skyline.github.com/saikishor164/2023"><img src="https://github.com/Saikishor164/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" > </a>
+ <a href="https://skyline.github.com/saikishorr/2023"><img src="https://github.com/saikishorr/Saikishor164/blob/main/saikishor164s%20skyline%20video%20version.gif" alt="Saikishor's Github Contributions in Skyline View" > </a>
 </p> 
 
 <!-- <img style="background-color:black" src="https://raw.githubusercontent.com/saikishor164/saikishor164/output/snake.svg" alt="Snake animation" /> -->
 
 <h1>🏆Stats🏅</h1>
-   <a href="https://github.com/Saikishor164"> <p align="center">
+   <a href="https://github.com/saikishorr"> <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
         <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
     </p> </a>
     <p align="center">
     <div align="center">        
-<!--            <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a> -->
-                <a href="https://github.com/Saikishor164"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164"> </a>
+<!--            <a href="https://github.com/saikishorr"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a> -->
+                <a href="https://github.com/saikishorr"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164"> </a>
 <!--             <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&column=3&title="> -->
-<!--         <a href="https://github.com/Saikishor164"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a> -->
+<!--         <a href="https://github.com/saikishorr"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a> -->
     </div>
 
 <br>
 <!--
-<p align="left"> <a href="https://github.com/saikishor164" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> --> 
+<p align="left"> <a href="https://github.com/saikishorr" target="_blank" ><img src="https://github-trophies.vercel.app/?username=saikishor164&rank=SECRET,SSS,SS,S,AAA,AA,A,B,unknown&row=3&column=4&&margin-w=15&margin-h=15" alt="saikishor164" /></a> </p> <br> --> 
 
 <!-- https://github-profile-trophy.vercel.app/?username=saikishor164&row=3&column=4 -->
 
 
 
-<!-- <p align="left"> <a href="https://github.com/saikishor164"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br>  -->
+<!-- <p align="left"> <a href="https://github.com/saikishorr"><img src="[https://github-profile-trophy.vercel.app/?username=saikishor164](https://github-profile-trophy.vercel.app/?username=saikishor164&rank=S,SS,SSS,AAA,AA,A,B,C,UNKNOWN)" alt="saikishor164" /></a> </p><br>  -->
 
 <!-- <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br> -->
 
 - 🔭 I’m currently working on PAI ROBO CHAMP  **[Website ](https://www.ictacademypune.com/pairobochamps/)**
 - 🌱 I’m currently learning **Codeigniter**
-- <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at [ Portfolio](https://saikishor164.github.io/)
+- <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at [ Portfolio](https://saikishorr.github.io/)
 <!-- - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/) -->
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Saikishor164?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saikishorr?tab=repositories)
 - 💬 Ask me about **Wordpress**
 - 📫 How to reach me **saikishorrasala418@gmail.com**
-- 📄 Know about my experiences <a href="https://saikishor164.github.io/saikishor-resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://saikishorr.github.io/saikishor-resume.pdf" target="blank">Resume</a>
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
 <!-- 
@@ -153,18 +153,18 @@
 
 <a href="https://app.daily.dev/saikishor164"><img src="https://api.daily.dev/devcards/v2/dprPPnHxVQGlc8qDEMCGW.png?type=wide&r=2ow" width="652" alt="saikishor Rasala's Dev Card"/></a>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/saikishor164" style="margin: 10px;">
-    <img src="https://github.com/saikishor164/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="saikishor github stats">
+  <a href="https://github.com/saikishorr" style="margin: 10px;">
+    <img src="https://github.com/saikishorr/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="saikishor github stats">
   </a>
-  <a href="https://github.com/saikishor164" style="margin: 10px;">
-    <img src="https://github.com/saikishor164/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+  <a href="https://github.com/saikishorr" style="margin: 10px;">
+    <img src="https://github.com/saikishorr/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
   </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/saikishor164">
+  <a href="https://github.com/saikishorr">
     <img src="https://github-readme-stats.vercel.app/api?username=saikishor164&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats">
   </a>
-  <a href="http://www.github.com/saikishor164" style="margin: 10px;">
+  <a href="http://www.github.com/saikishorr" style="margin: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishor164" alt="saikishor164">
   </a>
 </div>
@@ -172,7 +172,7 @@
 <br>
  <br> 
 <!-- <p>
-<a href="https://github.com/saikishor164"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p> -->
+<a href="https://github.com/saikishorr"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p> -->
 <a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
 
 <h1> My Certifications </h1>
@@ -182,9 +182,9 @@ FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://ww
 <!--
 Udemy - Python Complete Course For Beginners - 27, January 2022 [Certificate](https://www.udemy.com/certificate/UC-11be6fdc-312b-4b97-b86b-9804c2b33229/) <br> Certificate ID:- UC-11be6fdc-312b-4b97-b86b-9804c2b33229
 <br><br> -->
-SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishor164/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
+SkillUP - Full Stack Development for Beginners - 11, October 2022 [Certificate](https://github.com/saikishorr/FullStackDevelopmentforBeginnersskillup.pdf) <br> Certificate No:- 3844386
 <br> <br>
-SkillUP - Data Science with Python - 30 Septmeber 2022 [Certificate](https://github.com/saikishor164/DataSciencewithPythonskillup.pdf) <br> Certificate No:- 3815610
+SkillUP - Data Science with Python - 30 Septmeber 2022 [Certificate](https://github.com/saikishorr/DataSciencewithPythonskillup.pdf) <br> Certificate No:- 3815610
 <br><br>
 Cursa - Wordpress Elementor from Basics to Advanced by Azharul Rafy - 27, Septmeber 2022 [Certificate](https://cursa.app/en/my-certificate/5876e88e3ef65165a4bc3d0fbd9894eb/ok) <br> Certificate ID:- 1582-1710001
 <br><br>
@@ -192,7 +192,7 @@ Cursa - Advanced Wordpress theme Development by Codeytek Academy - 6, October 20
 <br><br>
 Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners - 19, Novemeber 2022 [Certificate](https://www.udemy.com/certificate/UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789/) <br> Certificate ID:- UC-ad7843a9-0ee5-4205-9d2d-4a73b45d1789
 <br> <br>
-<a href="https://github.com/Saikishor164"> <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
+<a href="https://github.com/saikishorr"> <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"> 
 <br>
 <img  src="https://profile-counter.glitch.me/saikishor164/count.svg" > <br> </a>
 <h1>Support:</h1>
@@ -207,7 +207,7 @@ waka_37535a22-a827-4496-ae01-516c8b3a9e34
   Your browser does not support the video tag.
 </video> 
 
-[![Video](https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)https://github.com/Saikishor164/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)
+[![Video](https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)
 
 -->
 
