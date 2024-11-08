@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikishor Rasala</h1>
+
 <p align="center">I am a web developer working to bring something new to this industry. I have work with many languages and frameworks. I am very well known as a Front-End Web Developer in Azam Campus & currently working as a Web Developer in Azam IT Department of Azam Campus. Worked on Frontend & Backend program. </p>
 <p> 
  <img src="https://img.shields.io/github/followers/saikishorr?style=plastic" alt="saikishor164" />  
@@ -6,6 +7,7 @@
  <a href="https://wakatime.com/@44c4cd40-9920-40d7-86da-9eb0c0a197af"><img src="https://wakatime.com/badge/user/44c4cd40-9920-40d7-86da-9eb0c0a197af.svg" alt="Total time coded since Jul 4 2023" /></a>
                         
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e706bf5b-b992-43bc-b099-8f4c4cbae341/deploy-status)](https://app.netlify.com/sites/saikishor/deploys)
+
   
 <!-- <img src="https://img.shields.io/github/languages/count/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
 <!-- <img src="https://img.shields.io/github/languages/top/saikishor164/ProFormaForm?style=plastic" alt="saikishor164"> -->
