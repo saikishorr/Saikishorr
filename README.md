@@ -160,12 +160,20 @@
     <img src="https://github.com/saikishorr/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
   </a>
 </div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikishorr&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikishorr&theme=transparent)|
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikishorr&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saikishorr&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikishorr&theme=transparent) |
+| :-: | :-: | :-: |
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/saikishorr">
     <img src="https://github-readme-stats.vercel.app/api?username=saikishorr&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats">
   </a>
   <a href="http://www.github.com/saikishorr" style="margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishorr" alt="saikishor164">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishorr" alt="saikishor164"> -->
+    <img src="https://streak-stats.demolab.com/?user=saikishorr&theme=default" alt="saikishor164">
   </a>
 </div>
 
