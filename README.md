@@ -156,17 +156,19 @@
 <a href="https://app.daily.dev/saikishor164"><img src="https://api.daily.dev/devcards/v2/dprPPnHxVQGlc8qDEMCGW.png?type=wide&r=2ow" width="652" alt="saikishor Rasala's Dev Card"/></a>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/saikishorr" style="margin: 10px;">
-    <img src="https://github.com/saikishorr/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="saikishor github stats">
+<!--     <img src="https://github.com/saikishorr/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="saikishor github stats"> -->
   </a>
   <a href="https://github.com/saikishorr" style="margin: 10px;">
-    <img src="https://github.com/saikishorr/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
+<!--     <img src="https://github.com/saikishorr/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"> -->
   </a>
 </div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikishorr&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikishorr&theme=transparent)|
+<!-- &theme=transparent-->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikishorr)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saikishorr)|
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikishorr&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saikishorr&theme=transparent&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikishorr&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saikishorr) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saikishorr&utcOffset=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saikishorr) |
 | :-: | :-: | :-: |
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
