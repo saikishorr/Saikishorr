@@ -173,7 +173,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/saikishorr">
-    <img src="https://github-readme-stats.vercel.app/api?username=saikishorr&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=saikishorr&show=reviews&show_icons=true&number_format=long&hide_title=flase&include_all_commits=false&rank_icon=percentile" alt="saikishor github stats"> -->
   </a>
   <a href="http://www.github.com/saikishorr" style="margin: 10px;">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishorr" alt="saikishor164"> -->
