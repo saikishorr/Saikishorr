@@ -188,6 +188,7 @@
 <a href="https://github.com/saikishorr"><img  src="https://stats.hyochan.dev/api/github-stats-advanced?login=saikishor164" width="700px" height="300px" /></a> </p> -->
 <a href="https://wakatime.com/@saikishor164"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=saikishor164&layout=compact" /></a>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/673b467bf20970fd489e2057?variant=dark&roadmaps=git-github)](https://roadmap.sh/u/saikishor)
 <h1> My Certifications </h1>
 
 FreeCodeCamp - Responsive Web Design 16, Novemeber 2022 [Certificate](https://www.freecodecamp.org/certification/saikishor/responsive-web-design) 
