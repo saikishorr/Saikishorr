@@ -23,13 +23,13 @@
 <h1>🏆Stats🏅</h1>
    <a href="https://github.com/saikishorr"> <p align="center">
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
+        <img width="150" src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" >&emsp;
         <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
     </p> </a>
     <p align="center">
     <div align="center">        
 <!--            <a href="https://github.com/saikishorr"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=4&title=LongTimeUser,AncientUser,Commits,Reviews"> </a> -->
-                <a href="https://github.com/saikishorr"> <img src="https://github-profile-trophy.vercel.app/?username=saikishor164"> </a>
+                <a href="https://github.com/saikishorr"> <img src="https://github-profile-trophy.vercel.app/?username=Saikishorr&theme=light"> </a>
 <!--             <img src="https://github-profile-trophy.vercel.app/?username=saikishor164&column=3&title="> -->
 <!--         <a href="https://github.com/saikishorr"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=saikishor164&row=1&column=7&title=Followers,PullRequest,Repositories,Issues,Stars,MultiLanguage,Organizations"> </a> -->
     </div>
