@@ -46,12 +46,12 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/saikishor164" target="blank"><img src="https://img.shields.io/twitter/follow/saikishor164?logo=twitter&style=for-the-badge" alt="saikishor164" /></a> </p> <br> -->
 
-- 🔭 I’m currently working on PAI ROBO CHAMP  **[Website ](https://www.ictacademypune.com/pairobochamps/)**
-- 🌱 I’m currently learning **Codeigniter**
+- 🔭 I’m currently working on Kids Dental Corner Pune  **[Website ](http://kidsdentalcornerpune.com/)**
+- 🌱 I’m currently learning **ASP.net**
 - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at [ Portfolio](https://saikishorr.github.io/)
 <!-- - <i class="fa-regular fa-file"></i> 🖥️ See my portfolio at (currently developing it)[ Portfolio](https://saikishor164.github.io/) -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saikishorr?tab=repositories)
-- 💬 Ask me about **Wordpress**
+- 💬 Ask me about **Movies**
 - 📫 How to reach me **rasalasaikishor@gmail.com**
 - 📄 Know about my experiences <a href="https://saikishorr.github.io/saikishor-resume.pdf" target="blank">Resume</a>
 - ⚡ Fun fact **I think I am very Angry Sometimes**
