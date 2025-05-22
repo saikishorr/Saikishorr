@@ -53,7 +53,7 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saikishorr?tab=repositories)
 - 💬 Ask me about **Movies**
 - 📫 How to reach me **rasalasaikishor@gmail.com**
-- 📄 Know about my experiences <a href="https://saikishorr.github.io/saikishor-resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://saikishorr.github.io/images/resume/Saikishor-Rasala.pdf" target="blank">Resume</a>
 - ⚡ Fun fact **I think I am very Angry Sometimes**
 
 <!-- 
