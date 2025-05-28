@@ -76,6 +76,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
   <img width="12" />
+ <!--<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="30" alt="C Sharp logo"  />
+  <img width="12" /> -->
+  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" height="30" alt="C Sharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -223,6 +227,9 @@ waka_37535a22-a827-4496-ae01-516c8b3a9e34
 </video> 
 
 [![Video](https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)https://github.com/saikishorr/Saikishor164/blob/main/imgs/snake%20animation%20low.mp4)
+
+
+https://jobs.bmc.com/Careers/ApplicationMethods?jobId=44733
 
 -->
 
