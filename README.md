@@ -1,4 +1,4 @@
-
+<!--https://windows10spotlight.com/images/40063-->
 <h1 >Hi 👋, I'm Saikishor Rasala</h1>
 <a><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Software+Engineer;Web+developer;PHP+Developer+;Graphic+designer+;Video+Editor" alt="Typing SVG" /></a>
 <p>Results-driven Software Engineer with 3+ years of experience in web and database development. Expertise in MySQL, SQL Server, and advanced Excel for data analysis, reporting, and operational tasks. Currently supporting enterprise applications at Credence Global Solutions, leveraging WinSQL, Excel, and .NET technologies. Skilled in optimizing complex queries, ensuring data integrity, and collaborating with cross-functional teams for seamless application performance. Thrives in fast-paced environments and committed to advancing in database administration. </p>
